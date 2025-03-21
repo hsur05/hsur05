@@ -1,4 +1,4 @@
-## Hi there! Welcome! 👋
+## Hi there! Welcome!
 
 I am Roy Hsu, a Brown University trained computational biologist and data scientist with a background in molecular biology and machine learning. I enjoy tackling complex problems with data-driven solutions. 
 
