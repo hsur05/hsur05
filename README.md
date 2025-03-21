@@ -1,6 +1,6 @@
 ## Hi there! Welcome!
 
-I am Roy Hsu, a Brown University-trained computational biologist and data scientist with a background in molecular biology and machine learning. I enjoy tackling complex problems with data-driven solutions. 
+I am Roy Hsu, a Brown University-trained computational biologist and data scientist with a background in biostatistics, machine learning, and algorithm optimization. I enjoy tackling complex problems with data-driven solutions. 
 
 Take a look at my projects! they range from weather prediction using Markov Chains to SAT data analysis and fun Python games. Explore my repositories to see how I apply AI, statistical modeling, and bioinformatics to solve real-world challenges!  
 
