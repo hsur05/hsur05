@@ -4,7 +4,7 @@ I am Roy Hsu, a Brown University-trained computational biologist and data scient
 
 Take a look at my projects! they range from weather prediction using Markov Chains to SAT data analysis and fun Python games. Explore my repositories to see how I apply AI, statistical modeling, and bioinformatics to solve real-world challenges!  
 
-- 🔭 I’m currently working on a SQL project 😊
+- 🔭 I’m currently working on a SQL project and a text-based-adventure game😊
 - 🌱 I recently built a Markov Chain process to predict weather based on the previous day's status.
 - 💬 I'd love to chat about molecular biology 🔬 and how that translates to data science
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roy-hsu-brown/) or [GitHub](https://www.github.com/hsur05)  
