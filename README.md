@@ -8,7 +8,7 @@ Explore my repositories to see how I apply AI, statistical modeling, and bioinfo
 
 - 🔭 I’m currently working on a SQL project 😊
 - 🌱 I recently built a Markov Chain process to predict weather based on the previous day's status.
-- 💬 Ask me about molecular biology 🔬 and how that translates to data science
+- 💬 I'd love to chat about molecular biology 🔬 and how that translates to data science
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roy-hsu-brown/) or [GitHub](https://www.github.com/hsur05)  
 - 😎 Fun fact: I love EDM! Skrillex is GOAT 
 
